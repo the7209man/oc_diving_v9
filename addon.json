@@ -1,0 +1,11 @@
+{
+	"title"		:	"oc_diving_v9",
+	"type"		:	"Map",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
